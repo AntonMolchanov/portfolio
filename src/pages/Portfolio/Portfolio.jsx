@@ -13,6 +13,9 @@ import mongoose from './../../components/img/tech/3406432_animal_mammal_meerkat_
 import mongodb from './../../components/img/tech/1012822_code_development_logo_mongodb_programming_icon.svg'
 import mui from './../../components/img/tech/material-ui-1.svg'
 import jss from './../../components/img/tech/jss-logo-2B9BC9020D-seeklogo.com.png'
+import bitl from '../../components/img/Logo.svg'
+import originalite from '../../components/img/Originalité.svg'
+import flug from '../../components/img/logo-removebg-preview.png'
 
 function Portfolio(props) {
     return (
@@ -53,6 +56,13 @@ function Portfolio(props) {
                                 <img className={style.techIcon} src={gulp} alt="GULP"/>
                             </li>
                         </ul>
+                        <p className={style.subText}>Responsibilities:</p>
+                        <ul className={style.techList}>
+                            <li className={style.technologyItem}>
+                                <p className={style.technology}>One-Person Project</p>
+                            </li>
+                        </ul>
+
                     </div>
 
                 <div className={style.jobItem}>
@@ -76,10 +86,6 @@ function Portfolio(props) {
                             <img className={style.techIcon} src={redux} alt="Redux"/>
                         </li>
                         <li className={style.technologyItem}>
-                            <p className={style.technology}>SASS/SCSS</p>
-                            <img className={style.techIcon} src={sass} alt="SASS/SCSS"/>
-                        </li>
-                        <li className={style.technologyItem}>
                             <p className={style.technology}>Mongoose</p>
                             <img className={style.techIcon} src={mongoose} alt="Mongoose"/>
                         </li>
@@ -91,10 +97,168 @@ function Portfolio(props) {
                             <p className={style.technology}>JSS</p>
                             <img className={style.techIcon} src={jss} alt="Mongoose"/>
                         </li>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}>MongoDB</p>
+                            <img className={style.techIcon} src={mongodb} alt="mongodb"/>
+                        </li>
+                    </ul>
+
+                    <p className={style.subText}>Responsibilities:</p>
+                    <ul className={style.techList}>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}>One-Person Project</p>
+                        </li>
+                    </ul>
+                </div>
+
+                <div className={style.jobItem}>
+                    <div className={style.jobIcon}>
+                        <a href="https://ilonas-recipes.herokuapp.com/" target="_blank" className={style.ilonaLogo}>
+                            <img src={bitl} alt="BITL"/>
+                        </a>
+                        <div className={style.hint}>
+                            <img className={style.hintIcon} src={arrow} alt="click me"/>
+                            <p className={style.hintText}>click me</p>
+                        </div>
+                    </div>
+                    <p className={style.subText}>Technologies used in the project:</p>
+                    <ul className={style.techList}>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}>React</p>
+                            <img className={style.techIcon} src={react} alt="React"/>
+                        </li>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}>SASS/SCSS</p>
+                            <img className={style.techIcon} src={sass} alt="SASS/SCSS"/>
+                        </li>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}>Material UI</p>
+                            <img className={style.techIcon} src={mui} alt="MUI"/>
+                        </li>
+                    </ul>
+
+                    <p className={style.subText}>Responsibilities:</p>
+                    <ul className={style.techList}>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}>Header</p>
+                        </li>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}>Aside</p>
+                        </li>
+                    </ul>
+                </div>
+
+                <div className={style.jobItem}>
+                    <div className={style.jobIcon}>
+                        <a href="https://originalite-and-co.herokuapp.com" target="_blank" className={style.ilonaLogo}>
+                            <img style={{width: "150px"}} src={originalite} alt="Originalite"/>
+                        </a>
+                        <div className={style.hint}>
+                            <img className={style.hintIcon} src={arrow} alt="click me"/>
+                            <p className={style.hintText}>click me</p>
+                        </div>
+                    </div>
+                    <p className={style.subText}>Technologies used in the project:</p>
+                    <ul className={style.techList}>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}>React</p>
+                            <img className={style.techIcon} src={react} alt="React"/>
+                        </li>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}>Redux</p>
+                            <img className={style.techIcon} src={redux} alt="Redux"/>
+                        </li>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}>Formik</p>
+                        </li>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}>Yup</p>
+                        </li>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}>MongoDB</p>
+                            <img className={style.techIcon} src={mongodb} alt="mongodb"/>
+                        </li>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}>Mongoose</p>
+                            <img className={style.techIcon} src={mongoose} alt="Mongoose"/>
+                        </li>
+                    </ul>
+
+                    <p className={style.subText}>Responsibilities:</p>
+                    <ul className={style.techList}>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}> - Header (everything what's related to header and it's functionality)</p>
+                        </li>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}> - Footer</p>
+                        </li>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}> - Static pages</p>
+                        </li>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}> - Favourites feature</p>
+                        </li>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}> - Brought in a project manager to the team</p>
+                        </li>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}> - Together with a team mate managed the team of 4 junior developers</p>
+                        </li>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}> - Together with a team mate created the project's roadmap, determined the code-style and project workflows</p>
+                        </li>
+                    </ul>
+                </div>
+
+                <div className={style.jobItem}>
+                    <div className={style.jobIcon}>
+                        <a href="https://flugzeugmarkt.herokuapp.com/" target="_blank" className={style.ilonaLogo}>
+                            <img style={{width: "150px"}} src={flug} alt="flugzeugmarkt"/>
+                        </a>
+                        <div className={style.hint}>
+                            <img className={style.hintIcon} src={arrow} alt="click me"/>
+                            <p className={style.hintText}>click me</p>
+                        </div>
+                    </div>
+                    <p className={style.subText}>Technologies used in the project:</p>
+                    <ul className={style.techList}>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}>React</p>
+                            <img className={style.techIcon} src={react} alt="React"/>
+                        </li>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}>Redux</p>
+                            <img className={style.techIcon} src={redux} alt="Redux"/>
+                        </li>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}>Material UI</p>
+                            <img className={style.techIcon} src={mui} alt="MUI"/>
+                        </li>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}>Formik</p>
+                        </li>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}>Yup</p>
+                        </li>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}>SASS/SCSS</p>
+                            <img className={style.techIcon} src={sass} alt="SASS/SCSS"/>
+                        </li>
+                    </ul>
+
+                    <p className={style.subText}>Responsibilities:</p>
+                    <ul className={style.techList}>
+                        <li className={style.technologyItem}>
+                            <p className={style.technology}>One-Person Project</p>
+                        </li>
                     </ul>
                 </div>
 
             </div>
+
+            <a href="https://www.linkedin.com/in/anton-molchanov-pdm" target="_blank"><p className={style.footerItem}>LinkedIn</p></a>
+            <a href="https://www.facebook.com/anton.molchanov.3954/" target="_blank"><p className={style.footerItem}>Facebook</p></a>
+
         </div>
     );
 }
