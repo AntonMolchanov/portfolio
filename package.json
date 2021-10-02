@@ -15,7 +15,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "try": "npm install && npm run build && npm run start",
+    "try": "npm install && npm start",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
