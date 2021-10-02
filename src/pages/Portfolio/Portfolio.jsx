@@ -1,21 +1,21 @@
 import React from 'react';
 import style from './portfolio.module.css'
-import slay from '../../components/img/salonLogo.svg'
-import html from '../../components/img/tech/294678_html5_icon.svg'
-import css from '../../components/img/tech/294692_css3_icon.svg'
-import js from '../../components/img/tech/652581_code_command_develop_javascript_language_icon.svg'
-import sass from '../../components/img/tech/4375066_logo_sass_icon.svg'
-import gulp from '../../components/img/tech/4691255_gulp_icon.svg'
-import arrow from './../../components/img/arrow.svg'
-import react from './../../components/img/tech/7423887_react_react native_icon.svg'
-import redux from './../../components/img/tech/4691205_redux_icon.svg'
-import mongoose from './../../components/img/tech/3406432_animal_mammal_meerkat_mongoose_suricate_icon.svg'
-import mongodb from './../../components/img/tech/1012822_code_development_logo_mongodb_programming_icon.svg'
-import mui from './../../components/img/tech/material-ui-1.svg'
-import jss from './../../components/img/tech/jss-logo-2B9BC9020D-seeklogo.com.png'
-import bitl from '../../components/img/Logo.svg'
-import originalite from '../../components/img/Originalité.svg'
-import flug from '../../components/img/logo-removebg-preview.png'
+import slay from '../../img/slay.svg'
+import html from '../../img/tech/294678_html5_icon.svg'
+import css from '../../img/tech/294692_css3_icon.svg'
+import js from '../../img/tech/652581_code_command_develop_javascript_language_icon.svg'
+import sass from '../../img/tech/4375066_logo_sass_icon.svg'
+import gulp from '../../img/tech/4691255_gulp_icon.svg'
+import arrow from '../../img/arrow.svg'
+import react from '../../img/tech/7423887_react_react native_icon.svg'
+import redux from '../../img/tech/4691205_redux_icon.svg'
+import mongoose from '../../img/tech/3406432_animal_mammal_meerkat_mongoose_suricate_icon.svg'
+import mongodb from '../../img/tech/1012822_code_development_logo_mongodb_programming_icon.svg'
+import mui from '../../img/tech/material-ui-1.svg'
+import jss from '../../img/tech/jss-logo-2B9BC9020D-seeklogo.com.png'
+import bitl from '../../img/bitl.svg'
+import originalite from '../../img/Originalité.svg'
+import flug from '../../img/flugzeugmarkt.png'
 
 function Portfolio(props) {
     return (
@@ -59,7 +59,7 @@ function Portfolio(props) {
                         <p className={style.subText}>Responsibilities:</p>
                         <ul className={style.techList}>
                             <li className={style.technologyItem}>
-                                <p className={style.technology}>One-Person Project</p>
+                                <p className={style.technology}>Solo Project</p>
                             </li>
                         </ul>
 
@@ -106,7 +106,7 @@ function Portfolio(props) {
                     <p className={style.subText}>Responsibilities:</p>
                     <ul className={style.techList}>
                         <li className={style.technologyItem}>
-                            <p className={style.technology}>One-Person Project</p>
+                            <p className={style.technology}>Solo Project</p>
                         </li>
                     </ul>
                 </div>
@@ -187,7 +187,7 @@ function Portfolio(props) {
                     <p className={style.subText}>Responsibilities:</p>
                     <ul className={style.techList}>
                         <li className={style.technologyItem}>
-                            <p className={style.technology}> - Header (everything what's related to header and it's functionality)</p>
+                            <p className={style.technology}> - Header (everything what's related to header and its functionality)</p>
                         </li>
                         <li className={style.technologyItem}>
                             <p className={style.technology}> - Footer</p>
@@ -231,10 +231,6 @@ function Portfolio(props) {
                             <img className={style.techIcon} src={redux} alt="Redux"/>
                         </li>
                         <li className={style.technologyItem}>
-                            <p className={style.technology}>Material UI</p>
-                            <img className={style.techIcon} src={mui} alt="MUI"/>
-                        </li>
-                        <li className={style.technologyItem}>
                             <p className={style.technology}>Formik</p>
                         </li>
                         <li className={style.technologyItem}>
@@ -249,7 +245,7 @@ function Portfolio(props) {
                     <p className={style.subText}>Responsibilities:</p>
                     <ul className={style.techList}>
                         <li className={style.technologyItem}>
-                            <p className={style.technology}>One-Person Project</p>
+                            <p className={style.technology}>Solo Project</p>
                         </li>
                     </ul>
                 </div>

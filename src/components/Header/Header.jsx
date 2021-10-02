@@ -1,6 +1,6 @@
 import React from 'react';
-import aLetter from '../img/1553103_a_blue_letter_alphabet_letters_icon.svg'
-import mLetter from '../img/1553077_blue_letter_m_alphabet_letters_icon.svg'
+import aLetter from '../../img/1553103_a_blue_letter_alphabet_letters_icon.svg'
+import mLetter from '../../img/1553077_blue_letter_m_alphabet_letters_icon.svg'
 import style from './header.module.css'
 
 
