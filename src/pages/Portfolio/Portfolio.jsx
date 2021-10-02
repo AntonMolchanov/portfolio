@@ -29,8 +29,8 @@ function Portfolio(props) {
                                 <img src={slay} alt="SLAY"/>
                             </a>
                             <div className={style.hint}>
-                                <img className={style.hintIcon} src={arrow} alt="click me"/>
-                                <p className={style.hintText}>click me</p>
+                                <img className={style.hintIcon} src={arrow} alt="click the logo"/>
+                                <p className={style.hintText}>click the logo</p>
                             </div>
                         </div>
                         <p className={style.subText}>Technologies used in the project:</p>
@@ -72,7 +72,7 @@ function Portfolio(props) {
                         </a>
                         <div className={style.hint}>
                             <img className={style.hintIcon} src={arrow} alt="click me"/>
-                            <p className={style.hintText}>click me</p>
+                            <p className={style.hintText}>click the logo</p>
                         </div>
                     </div>
                     <p className={style.subText}>Technologies used in the project:</p>
@@ -113,12 +113,12 @@ function Portfolio(props) {
 
                 <div className={style.jobItem}>
                     <div className={style.jobIcon}>
-                        <a href="https://ilonas-recipes.herokuapp.com/" target="_blank" className={style.ilonaLogo}>
+                        <a href="https://bitl-cabinet.herokuapp.com/personal-area" target="_blank" className={style.ilonaLogo}>
                             <img src={bitl} alt="BITL"/>
                         </a>
                         <div className={style.hint}>
                             <img className={style.hintIcon} src={arrow} alt="click me"/>
-                            <p className={style.hintText}>click me</p>
+                            <p className={style.hintText}>click the logo</p>
                         </div>
                     </div>
                     <p className={style.subText}>Technologies used in the project:</p>
@@ -155,7 +155,7 @@ function Portfolio(props) {
                         </a>
                         <div className={style.hint}>
                             <img className={style.hintIcon} src={arrow} alt="click me"/>
-                            <p className={style.hintText}>click me</p>
+                            <p className={style.hintText}>click the logo</p>
                         </div>
                     </div>
                     <p className={style.subText}>Technologies used in the project:</p>
@@ -217,7 +217,7 @@ function Portfolio(props) {
                         </a>
                         <div className={style.hint}>
                             <img className={style.hintIcon} src={arrow} alt="click me"/>
-                            <p className={style.hintText}>click me</p>
+                            <p className={style.hintText}>click the logo</p>
                         </div>
                     </div>
                     <p className={style.subText}>Technologies used in the project:</p>
