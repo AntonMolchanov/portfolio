@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.471aba03.chunk.css",
+    "main.js": "/static/js/main.b544bfb4.chunk.js",
+    "main.js.map": "/static/js/main.b544bfb4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.132d9a57.js",
+    "runtime-main.js.map": "/static/js/runtime-main.132d9a57.js.map",
+    "static/js/2.f2a5769e.chunk.js": "/static/js/2.f2a5769e.chunk.js",
+    "static/js/2.f2a5769e.chunk.js.map": "/static/js/2.f2a5769e.chunk.js.map",
+    "static/js/3.0607fb3f.chunk.js": "/static/js/3.0607fb3f.chunk.js",
+    "static/js/3.0607fb3f.chunk.js.map": "/static/js/3.0607fb3f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.471aba03.chunk.css.map": "/static/css/main.471aba03.chunk.css.map",
+    "static/js/2.f2a5769e.chunk.js.LICENSE.txt": "/static/js/2.f2a5769e.chunk.js.LICENSE.txt",
+    "static/media/1012822_code_development_logo_mongodb_programming_icon.932fe1fd.svg": "/static/media/1012822_code_development_logo_mongodb_programming_icon.932fe1fd.svg",
+    "static/media/1553077_blue_letter_m_alphabet_letters_icon.a047cdca.svg": "/static/media/1553077_blue_letter_m_alphabet_letters_icon.a047cdca.svg",
+    "static/media/1553103_a_blue_letter_alphabet_letters_icon.cbb66953.svg": "/static/media/1553103_a_blue_letter_alphabet_letters_icon.cbb66953.svg",
+    "static/media/294678_html5_icon.753f37e5.svg": "/static/media/294678_html5_icon.753f37e5.svg",
+    "static/media/294692_css3_icon.a580e474.svg": "/static/media/294692_css3_icon.a580e474.svg",
+    "static/media/3406432_animal_mammal_meerkat_mongoose_suricate_icon.790014e1.svg": "/static/media/3406432_animal_mammal_meerkat_mongoose_suricate_icon.790014e1.svg",
+    "static/media/4375066_logo_sass_icon.8bc32fe1.svg": "/static/media/4375066_logo_sass_icon.8bc32fe1.svg",
+    "static/media/4691205_redux_icon.9dd5b17e.svg": "/static/media/4691205_redux_icon.9dd5b17e.svg",
+    "static/media/4691255_gulp_icon.dbed04a3.svg": "/static/media/4691255_gulp_icon.dbed04a3.svg",
+    "static/media/652581_code_command_develop_javascript_language_icon.45687a3d.svg": "/static/media/652581_code_command_develop_javascript_language_icon.45687a3d.svg",
+    "static/media/7423887_react_react native_icon.21a0c19c.svg": "/static/media/7423887_react_react native_icon.21a0c19c.svg",
+    "static/media/Originalité.c4a16454.svg": "/static/media/Originalité.c4a16454.svg",
+    "static/media/arrow.352aae69.svg": "/static/media/arrow.352aae69.svg",
+    "static/media/bitl.1db538bc.svg": "/static/media/bitl.1db538bc.svg",
+    "static/media/flugzeugmarkt.281cd837.png": "/static/media/flugzeugmarkt.281cd837.png",
+    "static/media/material-ui-1.fd510ed8.svg": "/static/media/material-ui-1.fd510ed8.svg",
+    "static/media/slay.72557041.svg": "/static/media/slay.72557041.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.132d9a57.js",
+    "static/js/2.f2a5769e.chunk.js",
+    "static/css/main.471aba03.chunk.css",
+    "static/js/main.b544bfb4.chunk.js"
+  ]
+}
